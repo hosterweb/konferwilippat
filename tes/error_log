@@ -1,0 +1,2 @@
+[15-Jan-2022 08:30:18 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/konferwi/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[18-Jan-2022 21:18:26 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/konferwi/public_html/PHPMailer/PHPMailerAutoload.php on line 45
